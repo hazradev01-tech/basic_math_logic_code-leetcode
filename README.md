@@ -7,4 +7,12 @@ ocus: Elementary math, basic number theory, and core logic algorithms.  Goal: Ma
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0007-reverse-integer) |
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/1929-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
