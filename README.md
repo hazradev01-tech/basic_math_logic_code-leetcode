@@ -7,6 +7,7 @@ ocus: Elementary math, basic number theory, and core logic algorithms.  Goal: Ma
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0009-palindrome-number) |
 ## Array
 |  |
 | ------- |
