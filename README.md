@@ -10,6 +10,7 @@ ocus: Elementary math, basic number theory, and core logic algorithms.  Goal: Ma
 ## Array
 |  |
 | ------- |
+| [1470-shuffle-the-array](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
