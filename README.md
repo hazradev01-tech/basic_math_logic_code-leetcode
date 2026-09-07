@@ -8,6 +8,7 @@ ocus: Elementary math, basic number theory, and core logic algorithms.  Goal: Ma
 | ------- |
 | [0007-reverse-integer](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0069-sqrtx) |
 ## Array
 |  |
 | ------- |
@@ -18,4 +19,12 @@ ocus: Elementary math, basic number theory, and core logic algorithms.  Goal: Ma
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/1929-concatenation-of-array) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
