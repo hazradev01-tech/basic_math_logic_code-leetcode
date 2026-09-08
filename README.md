@@ -13,6 +13,7 @@ ocus: Elementary math, basic number theory, and core logic algorithms.  Goal: Ma
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -27,4 +28,16 @@ ocus: Elementary math, basic number theory, and core logic algorithms.  Goal: Ma
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0069-sqrtx) |
+## Hash Table
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0645-set-mismatch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
