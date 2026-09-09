@@ -1,5 +1,28 @@
-# basic_math_logic_code-leetcode
-ocus: Elementary math, basic number theory, and core logic algorithms.  Goal: Master foundational computational thinking and problem-solving patterns.  Topics: Prime numbers, GCD/LCM, bitwise operations, digit manipulation, and geometry basics.
+# 🚀 Data Structures & Algorithms (DSA) Journey
+
+Welcome to my DSA repository! This space serves as a log for my daily problem-solving journey, organized by topics and patterns to build a strong foundation in computer science fundamentals.
+
+---
+
+## 📌 Topic-wise Progress
+
+- [x] **Arrays & Hash Maps**
+- [x] **Two Pointers & Sliding Window**
+- [x] **Linked Lists**
+- [ ] **Stacks & Queues**
+- [ ] **Binary Search & Sorting**
+- [ ] **Trees & Binary Search Trees (BST)**
+- [ ] **Graphs** (BFS/DFS)
+- [ ] **Dynamic Programming (DP)**
+
+---
+
+## 🎯 Repository Objectives
+
+- **Categorized Solutions:** Structured folder layout categorized by topic and data structure.
+- **Optimal Approaches:** Code solutions optimized for Time and Space Complexity.
+- **Consistency:** Regular practice from platforms like LeetCode, Codeforces, and GeeksforGeeks.
+-
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
