@@ -38,6 +38,7 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/1470-shuffle-the-array) |
@@ -71,4 +72,5 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
