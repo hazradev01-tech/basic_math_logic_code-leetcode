@@ -33,11 +33,13 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 | [0009-palindrome-number](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0645-set-mismatch) |
@@ -51,6 +53,7 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -58,14 +61,17 @@ Welcome to my DSA repository! This space serves as a log for my daily problem-so
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/hazradev01-tech/pattern-wise-dsa-solution/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/hazradev01-tech/basic_math_logic_code-leetcode/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
